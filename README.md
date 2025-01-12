@@ -1,0 +1,2 @@
+This project is about practicing all of the skills I have learned so far in The Odin Project.
+That includes: working with git and github repositories, operating and using the command line, and setting up a basic webpage using HTML.
